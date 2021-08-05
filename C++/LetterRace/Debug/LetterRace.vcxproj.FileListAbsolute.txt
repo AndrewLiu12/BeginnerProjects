@@ -1,0 +1,2 @@
+C:\Users\Andrew's Laptop\source\repos\LetterRace\Debug\LetterRace.exe
+C:\Users\Andrew's Laptop\Documents\Programming Projects\BeginnerProjects\C++\LetterRace\Debug\LetterRace.exe

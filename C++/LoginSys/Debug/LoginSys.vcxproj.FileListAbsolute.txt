@@ -1,0 +1,4 @@
+C:\Users\Andrew's Laptop\source\repos\LoginSys\Debug\LoginSys.exe
+C:\Users\Andrew's Laptop\source\repos\LoginSys\Debug\LoginSys.pdb
+C:\Users\Andrew's Laptop\Documents\Programming Projects\BeginnerProjects\C++\LoginSys\Debug\LoginSys.exe
+C:\Users\Andrew's Laptop\Documents\Programming Projects\BeginnerProjects\C++\LoginSys\Debug\LoginSys.pdb

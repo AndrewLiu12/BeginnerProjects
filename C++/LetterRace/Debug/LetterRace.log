@@ -1,0 +1,3 @@
+﻿  LetterRace.cpp
+C:\Users\Andrew's Laptop\Documents\Programming Projects\BeginnerProjects\C++\LetterRace\LetterRace.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LetterRace.vcxproj -> C:\Users\Andrew's Laptop\Documents\Programming Projects\BeginnerProjects\C++\LetterRace\Debug\LetterRace.exe
